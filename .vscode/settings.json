@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "cstdlib": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "ranges": "cpp",
+        "regex": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
+}

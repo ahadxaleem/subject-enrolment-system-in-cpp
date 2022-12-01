@@ -1,0 +1,12 @@
+avl.insert(2);
+	avl.inorder(avl.root);
+	avl.insert(3);
+	cout << endl;
+	avl.inorder(avl.root);
+	avl.insert(4);
+	avl.insert(5);
+	cout << endl;
+	avl.inorder(avl.root);
+	avl.Delete(5);
+	cout << endl;
+	avl.inorder(avl.root);
